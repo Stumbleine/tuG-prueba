@@ -17,9 +17,10 @@
 
 ## Capturas
 ### lista de usuarios
-
+![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_users.png)
 ### Busqueda de usuario
-![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/icon.png)
+![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/search.png)
 ### lista de publicaciones
-
+![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_posts.png)
 ### Mostrar publicacion
+![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/post.png)
