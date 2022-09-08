@@ -17,10 +17,14 @@
 
 ## Capturas
 ### lista de usuarios
-![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_users.png)
+<img src="https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_users.png" width="300" height="auto"/>
+
 ### Busqueda de usuario
-![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/search.png)
+<img src="https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/search.png" width="300" height="auto"/>
+
 ### lista de publicaciones
-![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_posts.png)
+<img src="https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/list_posts.png" width="300" height="auto"/>
+
 ### Mostrar publicacion
-![alt text](https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/post.png)
+<img src="https://raw.githubusercontent.com/stumbleine/tuG-prueba/main/assets/post.png" width="300" height="auto"/>
+
